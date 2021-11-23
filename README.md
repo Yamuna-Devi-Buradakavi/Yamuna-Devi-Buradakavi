@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![image](https://user-images.githubusercontent.com/84456329/142972547-c23ac526-11e3-4848-a5ed-71dd005aa5d1.png)
+
+|s.no| Name | Roll-no |Branch |
+|----|------|---------|-------|
+|1|Yamuna|512|CSE|
+|2|Jaanu|522|CSE|
+## Ordered List
+1. CSE
+2. EEE
+3. ECE
+## Unordered List
+- CSE
+- EEE
+- ECE
+* CIVIL
+* MECH
+* AGRI
+## Nested List
+1. ECE
+   - ELECTRICAL AND COMMUNICATION
+2. CSE
+   - COMPUTER SCIENCE AND ENGINEERING
+
+``` python
+a=10
+b=20
+print(a+b)
+```
